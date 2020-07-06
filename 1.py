@@ -12,7 +12,7 @@ print(type(c))    # <class 'complex'>
 print(type(d))    # <class 'str'>
 print(type(e))    # <class 'bool'>
 
-print type(str(111))
+
 
 
 mysum = 0
@@ -20,3 +20,4 @@ for x in range(11):
     mysum += x
     print(mysum)
 print(mysum)
+print(0.1 + 0.2)
